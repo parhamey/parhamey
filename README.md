@@ -4,15 +4,16 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Parham+Yazdi!;" />
 </h1>
 
-<h3 align="center">WebWizard: Building Tomorrow's Web Today 🚀</h3>
+<h3 align="center">Building the decentralized web, one line of code at a time. Let's shape the future together! 🚀</h3>
 
 <br/>
 
 <div align="center">
 
-💬 Ask me about **Node.js, React, Next.js, Web3 ecosystem and ...
+💬 Ask me about **Node.js, React, Next.js, Web3 ecosystem and** ...
 
-⚡ **Your time is limited, don't waste it living someone else's life** -Steve Jobs
+⚡ **Your time is limited, don't waste it living someone else's life** 
+-Steve Jobs
 
  </div>
 
@@ -32,8 +33,7 @@
 
  <hr/>
 
-<h2 align="center">My Skills</h2>
- <br/>
+<b>My Skills</b>
  <div align="center">
      <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
      <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,nextjs,mysql" /><br>

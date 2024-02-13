@@ -36,8 +36,9 @@
 
 <h3>Skills</h3>
  <div align="center">
-     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
-     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,nextjs,mysql" /><br>
+     <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mui,html,css,tailwind,git" />
+     <img src="https://skillicons.dev/icons?i=rabbitmq,sequelize,mongodb,mysql" /><br>
+     <img src="https://skillicons.dev/icons?i=linux,bash,python,javascript,figma,blender,ai,ps"/><br>
  </div>
 
  <br/>
